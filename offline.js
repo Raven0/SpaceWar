@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1485871156,
+	"version": 1486082543,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,17 +13,12 @@
 		"images/btnleft-sheet0.png",
 		"images/btndown-sheet0.png",
 		"images/btnfire-sheet0.png",
-		"media/laser1.ogg",
-		"media/blaster.ogg",
-		"media/tieengine.ogg",
+		"images/sprite-sheet0.png",
 		"media/explosivesound.ogg",
-		"media/xwingeng.ogg",
+		"media/laser1.ogg",
 		"media/star_wars-_the_imperial_march_darth_vader_39_s_the.ogg",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
-		"icon-256.png",
-		"loading-logo.png"
+		"media/tieeng.ogg",
+		"media/xwingblaster.ogg",
+		"media/xwingeng.ogg"
 	]
 }
